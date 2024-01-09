@@ -1,0 +1,305 @@
+/* header   */
+.new-year {
+  width: 1320px;
+  height: 600px;
+  border: 0px;
+  border-radius: 16px;
+  background-image: url(/resources/Banner\ Image.png);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.content {
+  width: 632px;
+  /* padding: auto 344px; */
+  margin-top: 70px;
+}
+.year {
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.celebration {
+  color: #fff;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  /* width: 632px; */
+  margin-top: 0px;
+  text-align: center;
+}
+
+/* DEALS SECTION  */
+.deals {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.deals-content {
+  display: block;
+  width: 802.9px;
+}
+.deals-content > p {
+  display: block;
+}
+.off {
+  color: #f00;
+  font-family: Inter;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  margin-bottom: 0px;
+  text-align: center;
+}
+.holiday-deals {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  margin-top: 48px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+.categories {
+  color: #070211;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  margin-top: 16px;
+  text-align: center;
+}
+.deal-new-year {
+  width: 802.9px;
+  height: 500px;
+}
+/* TICKET SECTION  */
+.ticket {
+  width: 1320px;
+  height: 600px;
+  background-image: url(resources/Vectorrr.png);
+  margin: auto;
+  margin-top: 60px;
+}
+.welcome {
+  color: #fff;
+  font-family: Merriweather;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 7.04px;
+  width: 642px;
+  padding-top: 126px;
+  padding-left: 126px;
+  margin-bottom: 0px;
+}
+.ticket-content {
+  width: 697px;
+  color: rgba(255, 255, 255, 0.8);
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  padding-left: 126px;
+  margin-top: 24px;
+}
+.join {
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-left: 158px;
+  padding-top: 48px;
+}
+/* MAIN START   */
+/* JOINING SECTION   */
+.joining {
+  background-color: rgb(236, 227, 227);
+  width: 1320px;
+  height: 482px;
+  margin: auto;
+  margin-top: 120px;
+  border: 0px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.joining-info {
+  width: 549px;
+  display: block;
+}
+.join-place {
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin-bottom: 0px;
+  text-align: center;
+}
+.join-date {
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin-top: 1px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+.join-time {
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+  margin-top: 1px;
+  text-align: center;
+}
+.pdt {
+  color: #f00;
+}
+.join-button {
+  background-color: #f00;
+  padding: 16px 32px;
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  border: 0px;
+  border-radius: 5px;
+}
+/* SECTION BEST OFFER */
+.best-offer {
+  width: 1320px;
+  height: 482px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 120px;
+}
+.column {
+  padding-top: 112px;
+}
+.column-tittle {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 9px;
+}
+.column-heading {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.column-discription {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+  width: 393px;
+  margin-top: 13px;
+}
+.column-tittletwo {
+  color: #f00;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 0px;
+}
+.column-discriptiontwo {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+  width: 276px;
+  margin-top: 9px;
+  margin-bottom: 0px;
+}
+.circle-photo {
+  height: 482px;
+  width: 482px;
+  border: 5px solid red;
+  border-radius: 50%;
+  background-image: url(resources/Ellipse\ 1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 13px;
+}
+.circle {
+  align-content: center;
+}
+/* SECTION HOLIDAY SALES  */
+.holiday-sales {
+  width: 1320px;
+  height: 884px;
+  margin: auto;
+  margin-top: 150px;
+}
+.holiday-text{
+  width: 1068px;
+  height: 96px;
+  align-items: center;
+  padding-left: auto;
+}
+.holiday-what {
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.holiday-50 {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  margin-top: 0px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+.holiday-discription {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 0px;
+  text-align: center;
+}
+.holiday-orange {
+  color: #f00;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  margin-right: 15px;
+}
